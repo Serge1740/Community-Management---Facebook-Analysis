@@ -10,4 +10,6 @@ Et c'est pour cette raison que j'adore les Community managers. Surtout ceux ivoi
 
 Pour notre cas d'application, j'utilise les informations récupérées sur une page Facebook d'un géant de la télécommunication ivoirienne, dont je taira le nom.
 
+Envoyez moi un mail pour faire une requête pour les données utilisées pour la partie de l'analyse textuelle.
+
 Bonne lecture à vous, et n'hésitez pas à approfondir vos connaissances sur l'analyse des sentiments.
